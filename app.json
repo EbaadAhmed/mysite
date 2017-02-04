@@ -1,0 +1,6 @@
+{"name" :"nodetest",
+"description" : "Abc",
+"repository": "https://github.com/EbaadAhmed/mysite",
+"keywords":["node","express","static"]
+
+}
